@@ -31,7 +31,6 @@ Local project folder name: `LMS`
 |-----------|------------------------------------|
 | Frontend  | React JS, Tailwind CSS, Framer Motion, Axios |
 | Backend   | Node.js, Express.js, MongoDB, Mongoose |
-| UI Kit    | Material Dashboard 2 by Creative Tim |
 | Realtime  | Socket.io                          |
 | Tools     | Git, GitHub, VS Code               |
 
